@@ -4,7 +4,7 @@ Welcome to my portfolio! Here, you can explore the projects I’ve worked on, sh
 
 ## Projects:
 
-### 1. **Tableau Milestone 1**  
+### 1. **Exploratory Data Analysis Dashboard**
 **Description**:  
 This project demonstrates a Tableau dashboard built for data visualization and exploratory data analysis (EDA). The goal was to visualize key insights from a dataset to help stakeholders make informed decisions. The dashboard highlights important trends, patterns, and outliers, making it easier to explore and understand the data.
 
