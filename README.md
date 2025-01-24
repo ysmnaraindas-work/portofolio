@@ -4,7 +4,21 @@ Welcome to my portfolio! Here, you can explore the projects I’ve worked on, sh
 
 ## Projects:
 
-### 1. **SephoraSkincareRating**  
+### 1. **Tableau Milestone 1**  
+**Description**:  
+This project demonstrates a Tableau dashboard built for data visualization and exploratory data analysis (EDA). The goal was to visualize key insights from a dataset to help stakeholders make informed decisions. The dashboard highlights important trends, patterns, and outliers, making it easier to explore and understand the data.
+
+**Technologies Used**:  
+- Tableau  
+- Data Visualization  
+- Exploratory Data Analysis (EDA)
+
+**Project Link**:  
+[Tableau Milestone 1 Dashboard](https://public.tableau.com/app/profile/yasmine.setiadi/viz/Milestone1_17345206744000/Dashboard1)
+
+---
+
+### 2. **SephoraSkincareRating**  
 **Description**:  
 This project focuses on analyzing and predicting the ratings of skincare products on Sephora. The analysis considers various factors such as price, active ingredients, brand name, and product categories to understand what drives customer satisfaction. The project utilizes **machine learning** models such as Random Forest to make predictions based on historical review data.
 
@@ -16,20 +30,6 @@ This project focuses on analyzing and predicting the ratings of skincare product
 
 **Project Link**:  
 [SephoraSkincareRating on Hugging Face](https://huggingface.co/spaces/yasminenaraindas/SephoraSkincareRating)
-
----
-
-### 2. **Tableau Milestone 1**  
-**Description**:  
-This project demonstrates a Tableau dashboard built for data visualization and exploratory data analysis (EDA). The goal was to visualize key insights from a dataset to help stakeholders make informed decisions. The dashboard highlights important trends, patterns, and outliers, making it easier to explore and understand the data.
-
-**Technologies Used**:  
-- Tableau  
-- Data Visualization  
-- Exploratory Data Analysis (EDA)
-
-**Project Link**:  
-[Tableau Milestone 1 Dashboard](https://public.tableau.com/app/profile/yasmine.setiadi/viz/Milestone1_17345206744000/Dashboard1)
 
 ---
 
