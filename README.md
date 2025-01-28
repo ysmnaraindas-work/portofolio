@@ -18,7 +18,7 @@ This project showcases a Tableau dashboard designed for visualizing data and per
 
 ---
 
-### 2. **SephoraSkincareRating**  
+### 2. **Beauty Ratings Predictor: Insights from Sephora Reviews**  
 **Description**:  
 This project focuses on analyzing and predicting the ratings of skincare products on Sephora. The analysis considers various factors such as price, active ingredients, brand name, and product categories to understand what drives customer satisfaction. The project utilizes **machine learning** models such as Random Forest to make predictions based on historical review data.
 
